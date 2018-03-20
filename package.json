@@ -1,7 +1,7 @@
 {
-  "name": "DLServerCore",
-  "version": "1.0.0",
-  "description": "DLServerCore v1.0.0",
+  "name": "stigma-dvcore",
+  "version": "1.0.1",
+  "description": "DLServerCore v1.0.1",
   "main": "index.js",
   "scripts": {
     "test": "node test.js"
