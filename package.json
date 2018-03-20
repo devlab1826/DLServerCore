@@ -1,0 +1,23 @@
+{
+  "name": "DLServerCore",
+  "version": "1.0.0",
+  "description": "DLServerCore v1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devlab1826/DLServerCore.git"
+  },
+  "keywords": [
+    "npm",
+    "publish"
+  ],
+  "author": "stigma8326",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/devlab1826/DLServerCore/issues"
+  },
+  "homepage": "https://github.com/devlab1826/DLServerCore#readme"
+}
